@@ -7,6 +7,11 @@ code runs on iPhone and Android through Expo Go, and as a web link you can share
 All data is mocked in memory. Placeholders from the design, such as `[Name]`, `[Home name]` and `[$1.40]`,
 are kept on purpose so they can be swapped for client-specific copy.
 
+## Source material
+
+- [`docs/PRD_Unified_Smart_Home_Energy_Experience.pdf`](docs/PRD_Unified_Smart_Home_Energy_Experience.pdf) — product requirements
+- [`docs/HomeOne_Mobile_App_Designs.html`](docs/HomeOne_Mobile_App_Designs.html) — the six screen designs (open in a browser)
+
 ## Run it
 
 ```bash
