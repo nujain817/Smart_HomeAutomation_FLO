@@ -20,15 +20,15 @@ export default function ProfileScreen() {
       <Card style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
         <View style={styles.avatar}>
           <Txt size={20} weight="bold" color="#FFFFFF">
-            N
+            PS
           </Txt>
         </View>
         <View style={{ flex: 1, gap: 2 }}>
           <Txt size={16} weight="bold">
-            [Name]
+            Priya Sharma
           </Txt>
           <Txt size={13} color={colors.muted}>
-            Owner · [Home name] · 42 devices
+            Owner · Maple Grove House · 42 devices
           </Txt>
         </View>
       </Card>

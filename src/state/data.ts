@@ -165,8 +165,8 @@ export type AcState = { on: boolean; temp: number; mode: AcMode; fan: 1 | 2 | 3;
 export const initialAc: AcState = { on: true, temp: 22, mode: 'cool', fan: 2, eco: true, balance: 60 };
 
 export const members = [
-  { name: '[Name]', role: 'Owner', detail: 'Full access' },
-  { name: 'Partner', role: 'Household', detail: 'Control & scenes' },
-  { name: 'Mum', role: 'Guest · simple', detail: 'Living room & bedroom · inactivity alerts on' },
-  { name: '[Installer company]', role: 'Installer', detail: 'Remote diagnostics until 31 Oct' },
+  { name: 'Priya Sharma', role: 'Owner', detail: 'Full access' },
+  { name: 'Rahul Sharma', role: 'Household', detail: 'Control & scenes' },
+  { name: 'Asha Sharma', role: 'Guest · simple', detail: 'Living room & bedroom · inactivity alerts on' },
+  { name: 'Leo Martin · BrightHome Installs', role: 'Installer', detail: 'Remote diagnostics until 31 Oct' },
 ];
