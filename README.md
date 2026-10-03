@@ -4,7 +4,7 @@ A clickable mobile prototype of **HomeOne**, the unified smart home & energy app
 *Unified Smart Home & Energy Experience* (Oct 2026). It is built with Expo (React Native) so the same
 code runs on iPhone and Android through Expo Go, and as a web link you can share with a client.
 
-All data is mocked in memory. Placeholders from the design, such as `[Name]`, `[Home name]` and `[$1.40]`,
+All data is mocked in memory. The household uses dummy names (Emma Thompson, Maple Grove House). Prices such as `[$1.40]` and brands such as `[HVAC brand]`
 are kept on purpose so they can be swapped for client-specific copy.
 
 ## Source material

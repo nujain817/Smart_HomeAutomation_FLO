@@ -36,7 +36,7 @@ export default function HomeScreen() {
         <Pressable accessibilityRole="button" accessibilityLabel="Switch home" style={styles.homePicker}>
           <LogoTile size={32} />
           <Txt size={14} weight="semibold">
-            [Home name]
+            Maple Grove House
           </Txt>
           <Icon name="chevronDown" size={14} strokeWidth={2} />
         </Pressable>
@@ -56,7 +56,7 @@ export default function HomeScreen() {
           {today()}
         </Txt>
         <Txt size={30} weight="bold" style={{ letterSpacing: -0.8, lineHeight: 35 }} accessibilityRole="header">
-          Good morning, [Name]
+          Good morning, Emma
         </Txt>
       </View>
 
